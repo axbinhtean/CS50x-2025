@@ -1,4 +1,4 @@
-# Ross P. Coron || # GPS50 - a simple online GPS viewer || Created: March 2019
+# Abdullah Binhtean || # GPS50 - a simple online GPS viewer || Created: February 2025
 
 import requests
 import urllib.parse

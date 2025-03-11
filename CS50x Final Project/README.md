@@ -1,6 +1,6 @@
 # GPS50
 
-Hello, world! Welcome to GPS50 - a simple online GPS activity viewer. GPS50 was designed, written, and implemented by Ross P. Coron as part of CS50 2019. For a quick tour of GPS50, please watch a short video [here](https://www.youtube.com/watch?v=ps1U9mXVjVA&feature=youtu.be)!
+Hello, world! Welcome to GPS50 - a simple online GPS activity viewer. GPS50 was designed, written, and implemented by Abdullah Binhtean as part of CS50 2025. For a quick tour of GPS50, please watch a short video [here](...)!
 
 ![Image of GPS50](https://i.imgur.com/oKJf5JO.png)
 
@@ -30,7 +30,7 @@ Note: activities greater than **45 Km** cannot be uploaded / viewed using GPS50.
 - Version 1.4 - Activities > 10 Km accepted
 - Version 1.5 - Removed ability to upload previously uploaded activity
 - Version 1.6 - Annotated and tidied code
-- Version 1.7 - Further debugging / code annotation **(current version)**
+- Version 2.0 - Further debugging / code annotation **(current version)**
 
 ## Future Features:
 
