@@ -172,19 +172,9 @@ Keep in mind the course's [academic honesty](https://cs50.harvard.edu/x/2025/hon
 
 <br>
 
-- **[Portfolio Website](https://github.com/BogdanOtava/Portfolio-Website)** - _full-stack portfolio website_.
+- **[Portfolio Website](https://github.com/axbinhtean)** - _full-stack portfolio website_.
 
 ---
-
-### :arrow_forward: **Scratch**
-
-<br>
-
-- **[Whack-a-Mouse](https://scratch.mit.edu/projects/819729030)** - _a simple Scratch game which is a combination of Space Invaders and Whack-a-Mole._
-
----
-
-<br>
 
 ## :books: **Credits**
 

@@ -1,5 +1,5 @@
 """
-https://cs50.harvard.edu/x/2023/psets/6/mario/more/
+https://cs50.harvard.edu/x/2025/psets/6/mario/more/
 """
 
 def get_height():
