@@ -1,5 +1,5 @@
 /*
-https://cs50.harvard.edu/x/2022/psets/1/mario/less/
+https://cs50.harvard.edu/x/2025/psets/1/mario/less/
 */
 
 #include <cs50.h>
