@@ -1,5 +1,5 @@
 /*
-https://cs50.harvard.edu/x/2022/psets/2/readability/
+https://cs50.harvard.edu/x/2025/psets/2/readability/
 */
 
 #include <cs50.h>
