@@ -1,5 +1,5 @@
 /*
-https://cs50.harvard.edu/x/2022/psets/1/cash/
+https://cs50.harvard.edu/x/2025/psets/1/cash/
 */
 
 #include <cs50.h>
