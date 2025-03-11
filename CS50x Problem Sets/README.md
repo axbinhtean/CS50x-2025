@@ -18,7 +18,7 @@ Also down below are links and short descriptions for each of the projects. If yo
 
 ## :closed_book: **Academic Honesty**
 
-Keep in mind the course's [academic honesty](https://cs50.harvard.edu/x/2023/honesty/). You should try figuring out a solution yourself before looking at other implementations. Also, bear in mind that I am a beginner, I've taken the course to learn, so the solutions might not be the best implementations.
+Keep in mind the course's [academic honesty](https://cs50.harvard.edu/x/2025/honesty/). You should try figuring out a solution yourself before looking at other implementations. Also, bear in mind that I am a beginner, I've taken the course to learn, so the solutions might not be the best implementations.
 
 ---
 
