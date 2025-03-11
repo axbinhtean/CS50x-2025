@@ -1,4 +1,4 @@
-https://cs50.harvard.edu/x/2022/labs/3/#walkthrough
+https://cs50.harvard.edu/x/2025/labs/3/#walkthrough
 
 sort1 uses: Bubble Sort
 
