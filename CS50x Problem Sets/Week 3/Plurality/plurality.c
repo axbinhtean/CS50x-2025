@@ -1,5 +1,5 @@
 /*
-https://cs50.harvard.edu/x/2022/psets/3/plurality/
+https://cs50.harvard.edu/x/2025/psets/3/plurality/
 */
 
 #include <cs50.h>
