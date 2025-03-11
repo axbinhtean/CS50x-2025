@@ -1,5 +1,5 @@
 /*
-https://cs50.harvard.edu/x/2022/labs/2/
+https://cs50.harvard.edu/x/2025/labs/2/
 */
 
 #include <ctype.h>
