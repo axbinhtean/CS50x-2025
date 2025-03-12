@@ -48,8 +48,6 @@ Keep in mind the course's [academic honesty](https://cs50.harvard.edu/x/2023/hon
 
 - **[PS-1 - Mario Less](Week%201%20-%20C/ProblemSet1/MarioLess/mario.c)** - _create a right-aligned pyramid of blocks._
 
-- **[PS-1 - Mario More](Week%201%20-%20C/ProblemSet1/MarioMore/mario.c)** - _create an adjacent pyramid of blocks._
-
 - **[PS-1 - Cash](Week%201%20-%20C/ProblemSet1/Cash/cash.c)** - _minimize the number of coins given to a customer when making a change using greedy algorithms._
 
 ---
@@ -117,8 +115,6 @@ Keep in mind the course's [academic honesty](https://cs50.harvard.edu/x/2023/hon
 - **[L-6 World Cup](Week%206%20-%20Python/Lab6/WorldCup/tournament.py)** - _program to run simulations of the FIFA World Cup._
 
 - **[PS-6 Mario Less](Week%206%20-%20Python/ProblemSet6/SentimentalMarioLess/mario.py)** - _create a right-aligned pyramid of blocks._
-
-- **[PS-6 Mario More](Week%206%20-%20Python/ProblemSet6/SentimentalMarioMore/mario.py)** - _create an adjacent pyramid of blocks._
 
 - **[PS-6 Cash](Week%206%20-%20Python/ProblemSet6/SentimentalCash/cash.py)** - _minimize the number of coins given to a customer when making a change using greedy algorithms._
 
