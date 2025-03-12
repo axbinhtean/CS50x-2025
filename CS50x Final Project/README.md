@@ -2,7 +2,7 @@
 
 Hello, world! Welcome to GPS50 - a simple online GPS activity viewer. GPS50 was designed, written, and implemented by Abdullah Binhtean as part of CS50 2025.
 
-- Note: I worked on CS50x course and final project on a previous Github account which has deleted by coincidence.
+- Note: I worked on CS50x course and final project on a previous Github account which has deleted by coincidence, and in the project I have used OSM API but here I put Google Maps API, there is no functional difference between thim, just OSM API is free and Google Maps API is paid.
 
 ![Image of GPS50](https://i.imgur.com/oKJf5JO.png)
 
