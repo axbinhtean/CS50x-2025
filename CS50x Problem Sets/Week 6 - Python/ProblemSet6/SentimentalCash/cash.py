@@ -1,5 +1,5 @@
 """
-https://cs50.harvard.edu/x/2023/psets/6/cash/
+https://cs50.harvard.edu/x/2025/psets/6/cash/
 """
 
 def main():
