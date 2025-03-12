@@ -1,5 +1,5 @@
 /*
-https://cs50.harvard.edu/x/2023/psets/5/speller/
+https://cs50.harvard.edu/x/2025/psets/5/speller/
 */
 
 // Implements a dictionary's functionality
