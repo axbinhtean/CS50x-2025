@@ -1,5 +1,5 @@
 """
-https://cs50.harvard.edu/x/2023/labs/9/
+https://cs50.harvard.edu/x/2025/labs/9/
 """
 
 from cs50 import SQL
