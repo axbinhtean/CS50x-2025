@@ -183,7 +183,7 @@ First of all, a huge thank you to Prof. David J. Malan and the rest of the CS50 
 
 If you'd like to know more about CS50, I'll leave a few link down below.
 
-- **[Official Website](https://cs50.harvard.edu/x/2023/)**
-- **[CS50 Introduction on YouTube](https://www.youtube.com/watch?v=3oFAJtFE8YU)**
+- **[Official Website](https://cs50.harvard.edu/x/2025/)**
+- **[CS50 Introduction on YouTube](https://youtube.com/playlist?list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R&si=zLXxdo8Yy8tXwHZV)**
 - **[CS50 on edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)**
 - **[CS50 on Wikipedia](https://en.wikipedia.org/wiki/CS50)**
