@@ -1,5 +1,5 @@
 """
-https://cs50.harvard.edu/x/2023/labs/6/
+https://cs50.harvard.edu/x/2025/labs/6/
 """
 
 import csv
