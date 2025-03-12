@@ -2,6 +2,8 @@
 
 Hello, world! Welcome to GPS50 - a simple online GPS activity viewer. GPS50 was designed, written, and implemented by Abdullah Binhtean as part of CS50 2025.
 
+- Note: I worked on CS50x course and final project on a previous Github account which has deleted by coincidence.
+
 ![Image of GPS50](https://i.imgur.com/oKJf5JO.png)
 
 ## Quickstart:
