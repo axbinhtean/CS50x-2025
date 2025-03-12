@@ -1,5 +1,5 @@
 /* 
-https://cs50.harvard.edu/x/2023/labs/5/
+https://cs50.harvard.edu/x/2025/labs/5/
 */
 
 #include <stdbool.h>
